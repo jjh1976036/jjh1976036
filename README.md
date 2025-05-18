@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi, I’m Younghyun – Building Meaningful Intelligence with Data</h1>
+<h1 align="center">👋 Hi, I’m Jin JeongHo – Building Meaningful Intelligence with Data</h1>
 <p align="center">
   대화형 AI, 데이터 기반 서비스에 몰입하고 있는<br>
   개발자 JeongHo Jin의 포트폴리오입니다.
