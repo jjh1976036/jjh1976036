@@ -70,9 +70,7 @@ AI 면접관 (https://github.com/jjh1976036/MP2_AI_Interviewer)
 
 ## 📬 Reach Me
 
-[![Gmail](https://img.shields.io/badge/youremail@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pwrnm99@gmail.com)
-[![Blog](https://img.shields.io/badge/Dev%20Blog-Velog-brightgreen?style=flat-square)]([https://sosource.tistory.com/])
+[![Gmail](https://img.shields.io/badge/pwrnm99@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pwrnm99@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-Tistory-orange?style=flat-square&logo=tistory)](https://sosource.tistory.com/)
 
 ---
-
-<!-- TIP: 이 README는 'yourgithubid/yourgithubid' 저장소에 업로드하면 프로필 메인에 자동 노출됩니다. -->
