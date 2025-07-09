@@ -28,8 +28,8 @@
 
 ## 📁 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
+| Project |
+|--------|
 스마트폰 센서 기반 모션 데이터 분류 (https://github.com/jjh1976036/MP1_AI_Behavior)
 AI 면접관 (https://github.com/jjh1976036/MP2_AI_Interviewer)
 도서 관리 시스템 (https://github.com/aivle-mini)
