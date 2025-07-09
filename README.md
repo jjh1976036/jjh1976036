@@ -15,13 +15,13 @@
 
 ## 🔍 About Me
 
-> **실전 중심의 문제 해결**을 지향합니다.  
-> AI를 활용한 의미 있는 사용자 경험을 만들기 위해, 작은 개선에도 끊임없이 실험합니다.
+>문제를 해결하고자 하는 인내심이 있습니다.
+>사용하는 기술의 동작 원리를 고민하고 이해하기 위해 노력합니다.
+>요구 사항 및 문제 정의를 문서화하여 정리합니다.
 
 - 🧠 GPT 기반 Q&A 챗봇 개발 및 도메인 적용 (LangChain, ChromaDB)
-- 🗂️ 대용량 PDF/STT 데이터 처리 자동화 및 요약 서비스 설계
 - 🌐 Spring Boot, React 기반 AI 플랫폼 풀스택 개발 경험
-- ☁️ AWS & GCP 멀티 클라우드 배포 및 JVM 최적화 경험
+- ☁️ AWS & GCP 멀티 클라우드 배포 경험
 - 🔄 지속 가능한 데이터 흐름을 설계하는 것이 목표입니다
 
 ---
@@ -30,12 +30,9 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [AI Lecture Summarizer](https://github.com/) | STT + GPT 기반 강의 자동 요약 서비스 | Flask, GPT API, LangChain, GCP |
-| [Voice Assistant Platform](https://github.com/) | 음성 인식 기반 AI 챗봇 플랫폼 | FastAPI, OpenAI, ChromaDB |
-| [Multi-Cloud Deployment](https://github.com/) | GCP + AWS 통합 배포 및 리소스 최적화 | Docker, VM, S3, RDS |
-
-> 각 프로젝트에는 실제 기술 선택 이유, 장애 해결 경험, 협업 방식까지 상세히 기술되어 있습니다.
-
+스마트폰 센서 기반 모션 데이터 분류 (https://github.com/jjh1976036/MP1_AI_Behavior)
+AI 면접관 (https://github.com/jjh1976036/MP2_AI_Interviewer)
+도서 관리 시스템 (https://github.com/aivle-mini)
 ---
 
 ## 🔎 Skills
